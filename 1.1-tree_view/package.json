@@ -1,0 +1,20 @@
+{
+  "name": "1-tree_view",
+  "version": "1.0.0",
+  "description": "Object tree view",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/olegmack/makovetskiy-oleg-otus.git"
+  },
+  "author": "Oleg Makovetskiy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olegmack/makovetskiy-oleg-otus/issues"
+  },
+  "homepage": "https://github.com/olegmack/makovetskiy-oleg-otus#readme"
+}
