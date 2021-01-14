@@ -1,0 +1,26 @@
+{
+  "name": "1.2-tree_view",
+  "version": "1.0.0",
+  "description": "Folder tree view",
+  "main": "bin/index.js",
+  "scripts": {
+    "start": "node bin/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/olegmack/makovetskiy-oleg-otus.git"
+  },
+  "author": "Oleg Makovetskiy",
+  "license": "ISC",
+  "bin": {
+    "tree": "./bin/index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/olegmack/makovetskiy-oleg-otus/issues"
+  },
+  "homepage": "https://github.com/olegmack/makovetskiy-oleg-otus#readme",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
